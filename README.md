@@ -17,7 +17,8 @@ Para a imagem, ofereci algumas descrições do próprio texto.
 
 ## 🚀 Resultados
 
-![Leonardo_Phoenix_Create_an_image_of_a_32yearold_woman_with_dar_0](https://github.com/user-attachments/assets/7b62a9b5-7dca-4366-aa94-c0e7150fa5f6)
+
+![Leonardo_Phoenix_Create_an_image_of_a_32yearold_woman_with_dar_0](https://github.com/user-attachments/assets/b0ec253d-536b-4f67-afa9-549c3edde8d7)
 
 ## 💭 Reflexão
 Criar utilizando Inteligência Artificial é realmente um desafio, tendo em vista que o processo criativo deve estar em dia. Mas adorei fazer esta prática.
