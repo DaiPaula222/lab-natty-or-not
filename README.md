@@ -1,51 +1,25 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Meet Ana ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+"Meet Ana, uma mulher de 32 anos com cabelos castanhos escuros, olhos mel e um rosto oval. Ela tem uma pele clara e seu cabelo longo é frequentemente jogado para um lado. Ana trabalha com tecnologia, usando um notebook de última geração para implementar projetos no back-end e manter-se atualizada com as últimas tendências. Ela é uma pessoa sensível e cuidadosa, que valoriza a saúde mental e gosta de manter o equilíbrio entre o trabalho e o bem-estar. Ana também é apaixonada por montanhismo, encontrando paz e inspiração nas trilhas e montanhas que visita. Recentemente, ela se envolveu em um bootcamp na DIO, onde está aprendendo novas habilidades e fortalecendo seu portfólio no GitHub. Ana é motivada por desafios, adora aprender coisas novas e busca constantemente maneiras de conectar-se com a natureza e com outras pessoas através de suas experiências."
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT
+Leonardo AI
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para o texto, solicitei ao CHATP GPT, ofereci algumas descrições e com base nisso e no meu histórico de uso ele formulou o texto.
+Para a imagem, ofereci algumas descrições do próprio texto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+![Leonardo_Phoenix_Create_an_image_of_a_32yearold_woman_with_dar_0](https://github.com/user-attachments/assets/7b62a9b5-7dca-4366-aa94-c0e7150fa5f6)
+
+## 💭 Reflexão
+Criar utilizando Inteligência Artificial é realmente um desafio, tendo em vista que o processo criativo deve estar em dia. Mas adorei fazer esta prática.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
